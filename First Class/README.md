@@ -15,3 +15,8 @@ Write a program that prints the number of times the string 'bob' occurs in s.
 
 Assume s is a string of lower case characters.
 Write a program that prints the longest substring of s in which the letters occur in alphabetical order (repeated letters in sequence are allowed, like: abbcdhh).
+
+<b><h2>Challenge #Bonus:</h2></b>
+<h3><i>Title: cheer</i></h3>
+A little cheer challenge using a word that the user give us.
+The program has to spell letter by letter and give them a cheer in the end. It will repeat the whole word 'n' times (n is given by user).
