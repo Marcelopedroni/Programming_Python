@@ -17,6 +17,9 @@ And if the answer ** 2 or ** 3 for the current iteration is lower than the numbe
 
 The number of iterations will severaly decreased, because each iteration the algorithm discards half of intervals, that's the thing about bisection search method.
 
+<h3><i>NewtonRaphson.py</i></h3>
+<s>TO DO Description.</s>
+
 <h3><i>secretNumber.py</i></h3>
 
 That is one challenge to apply the bisection search in a famous guessing game. 
